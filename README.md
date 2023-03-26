@@ -15,6 +15,7 @@
   ## Installation 
 
   clone the repo and use `npm install` and then use `npm run develop` to run the app
+  or use the deployed link https://book-thing123.herokuapp.com/
       
   ## Usage
 
